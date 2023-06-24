@@ -134,10 +134,9 @@ call s:Col('Visual', '', 'base3')
 " Easy-to-guess code elements.
 call s:Col('Comment', 'blue')
 call s:Col('String', 'green')
-call s:Col('Number', 'orange')
+call s:Col('Number', 'cyan')
 call s:Col('Statement', 'base4')
 call s:Col('Function', 'base5')
-call s:Col('Number', 'blue')
 call s:Col('Special', 'orange')
 call s:Col('Identifier', 'base5')
 
