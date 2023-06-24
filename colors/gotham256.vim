@@ -136,7 +136,7 @@ call s:Col('Comment', 'blue')
 call s:Col('String', 'green')
 call s:Col('Number', 'cyan')
 call s:Col('Statement', 'base4')
-call s:Col('Function', 'base5')
+call s:Col('Function', 'base7')
 call s:Col('Special', 'orange')
 call s:Col('Identifier', 'base5')
 
